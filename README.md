@@ -45,7 +45,7 @@ HTML • CSS • Flutter
 Sistema desenvolvido em Java utilizando Programação Orientada a Objetos
 e Maven.
 
-### 🎬 SICAT
+### 🖥️ SICAT
 Projeto desenvolvido com HTML e CSS para aplicar conceitos de IHC em um Sistema de Chamados e Atendimento Técnico para Laboratórios de Informática
 
 ### 🌎 Terra Nossa
